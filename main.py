@@ -36,12 +36,12 @@ def main():
             elif opcion == "2":
                 print("\n--- AGREGAR AUTO ---")
                 print("  Funcionalidad en desarrollo")
-                # self.agregar_auto()
+                # concesionaria.agregar_auto()
                 
             elif opcion == "3":
                 print("\n--- AGREGAR MOTOCICLETA ---")
                 print("  Funcionalidad en desarrollo")
-                # self.agregar_moto()
+                # concesionaria.agregar_moto()
                 
             elif opcion == "4":
                 listar_inventario(concesionaria)
@@ -59,7 +59,7 @@ def main():
             elif opcion == "6":
                 print("\n--- VENDER VEHICULO ---")
                 print("  Funcionalidad en desarrollo")
-                # self.venta_vehiculo()
+                # concesionaria.venta_vehiculo()
                 
             elif opcion == "0":
                 print("\nSaliendo del sistema")
